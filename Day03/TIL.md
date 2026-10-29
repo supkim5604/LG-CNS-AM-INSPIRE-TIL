@@ -1,4 +1,4 @@
-# [Day 01] LG CNS AM Inspire Camp 7기 TIL
+# [Day 03] LG CNS AM Inspire Camp 7기 TIL
 
 작성일: 2026-10-29
 과목: FE
