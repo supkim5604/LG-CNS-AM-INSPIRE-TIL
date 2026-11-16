@@ -1,6 +1,6 @@
 # [Day 13] LG CNS AM Inspire Camp 7기 TIL
 
-작성일: 2026-11-16
+작성일: 2026-11-16<br>
 과목: BE
 
 ## 오늘 학습한 주제
