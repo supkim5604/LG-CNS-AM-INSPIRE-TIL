@@ -1,8 +1,7 @@
 # LG CNS AM Inspire Camp 7기 TIL
 
 작성일: 2026-11-25  
-과목: Spring Boot  
-학습 범위: 교재 13~37쪽, Spring Boot 활용
+과목: BE
 
 ## 오늘 학습한 주제
 
